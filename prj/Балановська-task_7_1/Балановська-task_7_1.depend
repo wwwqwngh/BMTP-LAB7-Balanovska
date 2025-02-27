@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740658197 source:c:\bmtp-lab7-Балановська\prj\Балановська-task_7_1\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
